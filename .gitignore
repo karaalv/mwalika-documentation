@@ -1,0 +1,22 @@
+# env files
+**/.env*
+
+# Keys
+keys/
+
+# Workspace settings
+.vscode/
+
+# Mac files
+**/.DS_Store
+
+# Windows files
+**/Thumbs.db
+**/Desktop.ini
+
+# Linux files
+*~
+
+# misc
+*.pem
+*.log
