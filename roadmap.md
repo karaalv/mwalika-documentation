@@ -92,11 +92,16 @@ The completed pitch document will serve as the authoritative reference for the p
 
 During this phase, the remaining sections of the pitch-writing document will be completed:
 
-1. **User Adoption and Behavioural Change Strategy**  
-2. **Stakeholder Engagement and Governance**  
-3. **Risk, Legal and Ethical Considerations**  
-4. **Monitoring, Impact Measurement and KPIs**  
-5. **Cost Benefit Analysis**
+4. **User Adoption and Behavioural Change Strategy**  
+   This section outlines strategies for driving user adoption of Mwalika, including outreach, education, and support mechanisms.
+5. **Stakeholder Engagement and Governance**  
+   This section details the approach to engaging with key stakeholders, including government agencies, civil society, and potential partners, as well as governance structures to ensure accountability and transparency.
+6. **Risk, Legal and Ethical Considerations**  
+   This section identifies potential risks associated with the Mwalika project, including legal and ethical considerations, and outlines mitigation strategies to address these challenges.
+7. **Monitoring, Impact Measurement and KPIs**  
+   This section defines the key performance indicators (KPIs) and monitoring strategies that will be used to assess the impact and effectiveness of Mwalika over time.
+8. **Cost Benefit Analysis**  
+  This section provides a detailed cost-benefit analysis of the Mwalika project, including projected costs, anticipated benefits, and a financial sustainability plan.
 
 ### Milestones
 

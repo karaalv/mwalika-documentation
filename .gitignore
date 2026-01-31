@@ -20,3 +20,6 @@ keys/
 # misc
 *.pem
 *.log
+
+# Archived notes
+**/archive/
