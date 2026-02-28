@@ -8,14 +8,17 @@ This repository acts as the central source of truth for non-code artefacts that 
 
 The project is intentionally split across multiple repositories, each serving a distinct purpose. These additional repositories are **to be determined (TBD)** as the system architecture and implementation mature.
 
+<!-- TODO: Add links to additional repositories once they are created -->
+* [mwalika-agent](https://github.com/karaalv/mwalika-agent) - Repository for the core agentic AI system, including source code, models, and services.
+
 ## Repository Contents
 
 ### `~/`
 
-- **Main Proposal PDF**  
+* **Main Proposal PDF**  
   The primary project proposal document outlining the problem, solution, architecture, and intended impact.
 
-- **Roadmap**  
+* **Roadmap**  
   A high-level roadmap capturing milestones, phases, and planned iterations of the Mwalika system.
 
 ---
@@ -24,10 +27,10 @@ The project is intentionally split across multiple repositories, each serving a 
 
 Contains all materials related to pitch development, including:
 
-- Pitch narratives and talking points
-- Slide outlines and speaker notes
-- Demo scripts and presentation structure
-- Iterations of pitch content prepared for reviews, judging, or stakeholder engagement
+* Pitch narratives and talking points
+* Slide outlines and speaker notes
+* Demo scripts and presentation structure
+* Iterations of pitch content prepared for reviews, judging, or stakeholder engagement
 
 ---
 
@@ -35,10 +38,10 @@ Contains all materials related to pitch development, including:
 
 Holds research artefacts that inform the project, including:
 
-- Global benchmarks and comparable systems
-- Local Kenyan context research
-- Problem validation and justification
-- Notes on digital inclusion, accessibility, and public sector AI adoption
+* Global benchmarks and comparable systems
+* Local Kenyan context research
+* Problem validation and justification
+* Notes on digital inclusion, accessibility, and public sector AI adoption
 
 ---
 
@@ -46,10 +49,10 @@ Holds research artefacts that inform the project, including:
 
 Contains system-level and conceptual architecture documentation, including:
 
-- High-level system overviews
-- Agent design and interaction flows
-- Security, privacy, and data governance considerations
-- Technical assumptions, constraints, and open questions
+* High-level system overviews
+* Agent design and interaction flows
+* Security, privacy, and data governance considerations
+* Technical assumptions, constraints, and open questions
 
 ## Project Structure
 
