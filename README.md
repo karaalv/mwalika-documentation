@@ -10,6 +10,7 @@ The project is intentionally split across multiple repositories, each serving a 
 
 <!-- TODO: Add links to additional repositories once they are created -->
 * [mwalika-agent](https://github.com/karaalv/mwalika-agent) - Repository for the core agentic AI system, including source code, models, and services.
+* [mwalika-frontend](https://github.com/karaalv/mwalika-frontend) - Repository for the frontend interface of the Mwalika system, including web and mobile applications.
 
 ## Repository Contents
 
